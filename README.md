@@ -16,6 +16,6 @@
 - Pillow
 
 ## How to Run
-1. Download and put the dataset in the ```gsmt_data``` folder: bit.ly/3Zrg0ht
+1. Download and put the dataset in the ```gsmt_data``` folder: https://tinyurl.com/gsmt15042024
 2. Train the model by running ```bash ./shells/train/{dataset}_gsmt.sh``` (egoqa or madqa)
 3. Evaluate the model via executing ```bash ./shells/test/{dataset}_gsmt.sh``` (egoqa or madqa)
